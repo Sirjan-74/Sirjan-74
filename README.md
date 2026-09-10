@@ -19,19 +19,18 @@ Building projects • Learning DSA • Exploring Software Development
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 🎓 B.Tech student specializing in **Artificial Intelligence & Machine Learning**
-- 💻 Interested in **Software Development, AI/ML and Web Development**
-- 🧠 Currently improving my **DSA and problem-solving skills**
+- 💻 Interested in **Software Development, AI/ML & Web Development**
+- 🧠 Currently improving my **DSA & problem-solving skills**
 - ☕ Practicing programming with **Java**
 - 🐍 Building projects with **Python**
-- 🌱 Always learning and experimenting with new technologies
-- 🚀 Focused on becoming a better Software Engineer
+- 🚀 Always learning and building new things
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
 
@@ -41,73 +40,102 @@ Building projects • Learning DSA • Exploring Software Development
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
+
+<table>
+<tr>
+
+<td width="50%">
 
 ### 🎵 MusicGPT
-A music-focused project built with TypeScript.
 
-🔗 [View Repository](https://github.com/Sirjan-74/MusicGPT)
+Music-focused project built with TypeScript.
 
----
+<a href="https://github.com/Sirjan-74/MusicGPT">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
 
 ### 💬 Messenger App
-A web-based messaging application.
 
-🔗 [View Repository](https://github.com/Sirjan-74/messenger-app)
+Web-based messaging application.
 
----
+<a href="https://github.com/Sirjan-74/messenger-app">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
-### 💳 RecoverAI — Razorpay Buildathon
-A project developed for the Razorpay Buildathon.
+</td>
 
-🔗 [View Repository](https://github.com/Sirjan-74/recoverai-razorpay-buildathon)
+</tr>
 
----
+<tr>
+
+<td width="50%">
+
+### 💳 RecoverAI
+
+Razorpay Buildathon project.
+
+<a href="https://github.com/Sirjan-74/recoverai-razorpay-buildathon">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
 
 ### 🌍 Travel
-A travel-related web development project.
 
-🔗 [View Repository](https://github.com/Sirjan-74/travel)
+Travel-related web development project.
 
----
+<a href="https://github.com/Sirjan-74/travel">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 💻 Portfolio
-My personal portfolio project.
 
-🔗 [View Repository](https://github.com/Sirjan-74/Portfolio)
+Personal portfolio project.
 
----
+<a href="https://github.com/Sirjan-74/Portfolio">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
 
 ### ☕ Practice
-A repository for practicing programming and Java concepts.
 
-🔗 [View Repository](https://github.com/Sirjan-74/Practice)
+Programming and Java practice repository.
 
----
+<a href="https://github.com/Sirjan-74/Practice">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
-## 📊 GitHub Statistics
+</td>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sirjan-74&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirjan-74&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
+</tr>
+</table>
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sirjan-74&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 My Coding Journey
+## 📚 Currently Learning
 
 ```text
-Learning → Building → Practicing → Improving → Repeating 🚀
+Java
+DSA
+Problem Solving
+Software Development
+AI / ML
+Web Development
